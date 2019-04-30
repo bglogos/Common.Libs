@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDataClient", "DapperDataClient\DapperDataClient.csproj", "{1E375C1E-EEB2-4062-BCAE-76509129C991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleApis.Client", "GoogleApis.Client\GoogleApis.Client.csproj", "{74C2ED32-1AE5-41E3-968D-CDA89F65A925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E375C1E-EEB2-4062-BCAE-76509129C991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E375C1E-EEB2-4062-BCAE-76509129C991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E375C1E-EEB2-4062-BCAE-76509129C991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E375C1E-EEB2-4062-BCAE-76509129C991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C2ED32-1AE5-41E3-968D-CDA89F65A925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C2ED32-1AE5-41E3-968D-CDA89F65A925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C2ED32-1AE5-41E3-968D-CDA89F65A925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C2ED32-1AE5-41E3-968D-CDA89F65A925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E62955-0472-4611-9A03-2E9FD1038EEF}
+	EndGlobalSection
+EndGlobal
